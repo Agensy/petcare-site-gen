@@ -53,10 +53,10 @@ const Header = () => {
             onClick={() => scrollToSection("home")}
             className="flex items-center space-x-2 group"
           >
-            <div className="w-12 h-12 bg-gradient-primary rounded-full flex items-center justify-center shadow-primary transition-transform duration-300 group-hover:scale-110">
+            <div className="w-12 h-12 border-2 border-white rounded-full flex items-center justify-center transition-transform duration-300 group-hover:scale-110">
               <span className="text-2xl font-bold text-white">D</span>
             </div>
-            <span className="text-2xl font-bold bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
+            <span className="text-2xl font-bold text-white">
               Doguinhu
             </span>
           </button>
