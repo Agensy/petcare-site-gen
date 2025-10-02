@@ -30,10 +30,10 @@ All colors MUST be HSL.
     --secondary-light: 160 84% 54%;
     --secondary-dark: 160 84% 24%;
 
-    /* Accent: Warm Orange #F59E0B */
-    --accent: 38 92% 50%;
+    /* Accent: Purple #9333EA */
+    --accent: 271 81% 56%;
     --accent-foreground: 0 0% 100%;
-    --accent-light: 38 92% 65%;
+    --accent-light: 271 81% 71%;
 
     --muted: 210 40% 96%;
     --muted-foreground: 215 16% 47%;
@@ -78,7 +78,7 @@ All colors MUST be HSL.
     --secondary: 160 84% 39%;
     --secondary-foreground: 0 0% 100%;
 
-    --accent: 38 92% 50%;
+    --accent: 271 81% 56%;
     --accent-foreground: 0 0% 100%;
 
     --muted: 217 33% 17%;
