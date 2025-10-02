@@ -75,7 +75,7 @@ const Header = () => {
             ))}
             <Button
               onClick={() => scrollToSection("contact")}
-              className="bg-accent hover:bg-accent/90 text-white shadow-lg"
+              className="bg-primary hover:bg-primary-dark text-primary-foreground shadow-primary"
             >
               <Phone className="w-4 h-4 mr-2" />
               Agendar Consulta
@@ -110,7 +110,7 @@ const Header = () => {
               ))}
               <Button
                 onClick={() => scrollToSection("contact")}
-                className="bg-accent hover:bg-accent/90 text-white shadow-lg"
+                className="bg-primary hover:bg-primary-dark text-primary-foreground shadow-primary"
               >
                 <Phone className="w-4 h-4 mr-2" />
                 Agendar Consulta
